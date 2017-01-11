@@ -24,3 +24,7 @@
   background: #900 ;
   text-decoration: underline ;
 }
+
+#navigation li {
+  display: inline;
+}

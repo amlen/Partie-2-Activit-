@@ -3,5 +3,6 @@ function a(){
 }
 
 function b(){
-	alert("hello friend");
+	var b="hello friend"
+	alert(b);
 }

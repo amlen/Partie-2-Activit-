@@ -1,9 +1,14 @@
 function a(){
-	var a="hello word"
+	var a="hello word";
 	alert(a);
 }
 
 function b(){
 	var b="hello friend";
-	return b;
+
+	alert(b);
+}
+
+function c(var a){
+	return a;
 }

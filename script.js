@@ -1,8 +1,9 @@
 function a(){
-	alert("hello word");
+	var a="hello word"
+	alert(a);
 }
 
 function b(){
-	var b="hello friend"
+	var b="hello friend";
 	alert(b);
 }

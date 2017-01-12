@@ -5,5 +5,5 @@ function a(){
 
 function b(){
 	var b="hello friend";
-	alert(b);
+	return b;
 }
